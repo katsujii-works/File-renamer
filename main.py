@@ -1,6 +1,6 @@
 import os
 
-folder_path = "test_folder"  # フォルダ名
+folder_path = "folder"  # フォルダ名
 
 files = os.listdir(folder_path)
 
